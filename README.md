@@ -1,4 +1,4 @@
-[!Alt text]()
+[!Alt text](CountDownGIF.gif)
 <h1>Countdown Timer</h1>
 This repository contains a simple countdown timer implemented in HTML and JavaScript.
 
